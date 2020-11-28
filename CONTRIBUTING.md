@@ -1,9 +1,11 @@
 # Contributing
 
-We are thrilled you are interested in contributing to this repository. Your help may be essential to the project's success and we want you in! 
+We are thrilled you are interested in contributing to Superalgos. Your help may be essential to the project's success and we want you in! 
 
-Superalgos is a collective project, currently at a very early stage. All sorts of contributions are very much welcome!
+[There is something you may do](https://docs.superalgos.org/contributing-to-superalgos.html) to help the project grow regardless of what your skill set may be.
 
-If you feel like giving back to the project or even becoming an important piece in the Superalgos machinery, please read this article about [why we open-sourced Superalgos](https://medium.com/superalgos/why-we-open-sourced-superalgos-55a5cbf83922) and find out how you may contribute.
+Thank you!
 
-Contributions are deemed _voluntary work_, irrespective of the incentives that may be in place, and are subject to the conditions described in the LICENSE
+
+
+

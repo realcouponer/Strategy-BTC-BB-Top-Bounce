@@ -1,15 +1,15 @@
 # About
-This repository holds an open-source trading strategy maintained by the [Superalgos Community](https://t.me/superalgoscommunity). 
-
-The strategy was released in May 2020. 
+This repository holds the original open-source **BB Top Bounce (BTC/USDT)** trading system released in May 2020 and maintained by the [Superalgos Community](https://t.me/superalgoscommunity). 
 
 The [Superalgos Documentation](https://docs.superalgos.org/suite-community-bb-top-bounce.html) explains the trading system and analyzes its performance.
 
-# The Files
+# See BB Top Bounce in Action
 
-* ```Backup - Trading System -  BB Top Bounce.json```: This is the original version of the trading system as first published, ready to be restored into your own workspace in Superalgos. The trading system features optional [Telegram Announcements](https://docs.superalgos.org/suite-telegram-announcements.html) that may broadcast the trading session's activity over a Telegram group.
+To see the trading system in action, load the ```BB-Top-Bounce.json``` plugin workspace shipping with Superalgos.
 
-* ```Backup - Workspace - Binance - WHB - BBTB.json````: This is a ready-to-use workspace featuring both *[BB Top Bounce](https://docs.superalgos.org/suite-community-bb-top-bounce.html)* and *[Weak-hands Buster](https://docs.superalgos.org/suite-community-weak-hands-buster.html)*, another open-source BTC strategy shipping with Superalgos.
+# The File in This Repository
+
+* ```Backup - Trading System -  BB Top Bounce.json```: This is the original version of the trading system as first published, and kept here as a historical record. The file is compatible with older versions of Superalgos and does not work in the current version.
 
 # Disclaimer
 
